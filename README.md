@@ -1,18 +1,11 @@
-### Hey, I'm Kevin! 🐸
+### Hey, I'm Kevin! It's great to meet you! ^_^
 
-It's nice to meet you! 
+I'm currently a student working mostly on my own projects as I try to learn more about computer science and electrical engineering. 
 
-<!--
-**kzqiu/kzqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I really enjoy exploring a large range of different projects, especially ones that teach me how things work as well as new skills. Recently, I've been interested in:
+- Programming languages
+- Data science + machine learning
+- Computer graphics
+- High-performance computing
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please reach out for anything at all!
